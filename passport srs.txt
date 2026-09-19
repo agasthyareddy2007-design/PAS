@@ -1,0 +1,15 @@
+2: Software Requirement Specification (SRS)
+Aim
+To prepare the Software Requirement Specification document.
+Functional Requirements
+ User Registration  User Login  Apply for Passport  Upload Documents  Pay Application Fee  Verify Documents  Track Application Status  Admin Approval
+Non-Functional Requirements
+ Security  Reliability  Performance  Availability  Easy to Use
+Hardware Requirements
+ Processor: Intel Core i3 or above  RAM: 4 GB  Hard Disk: 20 GB
+Software Requirements
+ Windows 10/11  HTML, CSS  PHP
+ MySQL
+ Google Chrome
+Result
+Software Requirement Specification was prepared successfully.
